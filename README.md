@@ -1,6 +1,6 @@
 # Tech Interview Projects
 
-Below is a list of tech interview take-home projects I have done for various companies in chronological order starting with the latest. This is not an exhaustive list as these are only the ones which are publically available and created on GitHub. Please do not expect these take-home projects to reflect the companies current standard and/or approach. Refer to it only as an example of what one might be expected to know when applying for a front-end position at these companies. Enjoy!
+Below is a list of tech interview take-home projects I have done for various companies in chronological order starting with the latest. This is not an exhaustive list as these are only the ones which are publically available and created on GitHub. Please do not expect these take-home projects to reflect the companies current standard and/or approach. Refer to it only as an example of what one might be expected to know when applying for a position at these companies. Enjoy!
 
 | Repository  | Company |
 |---|---|
