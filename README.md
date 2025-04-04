@@ -4,6 +4,7 @@ Below is a list of tech interview take-home projects I have done for various com
 
 | Repository  | Company | Outcome | Location |
 |---|---|---|---|
+| [arecvlohe/panoramic-dogs](https://github.com/arecvlohe/panoramic-dogs) [arecvlohe/panoramic-person](https://github.com/arecvlohe/panoramic-person)| [panosoft](https://panosoft.com) | No Offer | Remote |
 | [arecvlohe/customerio-assignment](https://github.com/arecvlohe/customerio-assignment) | [customer.io](https://customer.io/) | No Offer | Remote |
 | [arecvlohe/zero-grocery](https://github.com/arecvlohe/zero-grocery) | [Zero Grocery](https://sf.eater.com/2022/3/28/23000037/zero-grovery-delivery-startup-close-unpaid-bills) | No Offer | Remote |
 | [arecvlohe/reason-select-search](https://github.com/arecvlohe/reason-select-search) | [Ahrefs](https://ahrefs.com/) | Offer (Declined) | Remote |
